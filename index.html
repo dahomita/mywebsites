@@ -1,0 +1,60 @@
+<!DOCTYPE html> 
+<html lang="en"> 
+  <head> 
+    <meta charset="UTF-8">
+    <title>Friendship Survey Form</title>
+    <link rel="stylesheet" href="styles.css"/>
+  </head>
+  <body> 
+    <div class="beauty">
+    <h1 id="title">Friendship Survey Form</h1> 
+    <image class="center" src="https://scontent.fsgn8-4.fna.fbcdn.net/v/t1.15752-9/365672311_255977377294504_9049922163408054448_n.jpg?_nc_cat=107&cb=99be929b-3346023f&ccb=1-7&_nc_sid=8cd0a2&_nc_ohc=ih4rOSW7XuAAX9ymoC1&_nc_ht=scontent.fsgn8-4.fna&oh=03_AdROgNVXpP_cI93SsTR7_URW8vXofcTyfS-zrgNrPK2dig&oe=64FEB878" >
+    <p  id="description">Thank you for taking time to help improve our relationship</p> 
+      <form id="survey-form">
+      <fieldset>
+        <label id="name-label" for="name">Enter your Full Name:<input id="name" type="text" required placeholder="Enter your Full Name here"/></label> 
+        <label id="email-label" for="email">Enter your Email:<input id="email" type="email" required placeholder="Enter your email here"/></label>
+        <label id="number-label" for="number">Enter your age:<input id="number" type="number" min="5" max="40" required placeholder="Enter your age here"/></label>
+      </fieldset>
+      <fieldset>
+        <label for="dropdown">Where did we first meet?
+          <select id="dropdown"> 
+            <option value="">(select one)</option> 
+            <option value="1">At school/Extra Class</option> 
+            <option value="2">In SUGAR Vietnam Project</option>
+            <option value="3">Through a friend/family member</option>
+            <option value="4">Social Media</option>
+          </select>
+        </label>
+        <label>How do you rate our frienship?</label>
+        <label for="closed-rating"><input id="closed-rating" type="radio" name="rate-friendship" value="11" class="inline"/>Closed</label>
+        <label for="normal-rating"><input id="normal-rating" type="radio" name="rate-friendship" value="12" class="inline"/>Normal</label>
+        <label for="not-well-rating"><input id="not-well-rating" type="radio" name="rate-friendship" value="13" class="inline"/>Not Well</label>
+        <label>What type do you see me as?</label>
+        <label for="type">
+        <input id="type" type="checkbox" value="a" class="inline">Cute</label>
+        <label for="type">
+        <input id="type" type="checkbox" value="b" class="inline">Stubborn</label>
+        <label for="type">
+        <input id="type" type="checkbox" value="c" class="inline">Talent</label>
+        <label for="type">
+        <input id="type" type="checkbox" value="d" class="inline">Indiscipline</label>
+        <label for="type">
+        <input id="type" type="checkbox" value="e" class="inline">Funny</label>
+        <label for="type">
+        <input id="type" type="checkbox" value="f" class="inline">Generous</label>
+        <label for="type">
+        <input id="type" type="checkbox" value="g" class="inline">Careless</label>
+        <label for="type">
+        <input id="type" type="checkbox" value="h" class="inline">Talkative</label>
+      </fieldset>
+      <fieldset>
+        <label for="bio">Tell me more how you feel about me:<textarea id="bio" name="bio" row="5" cols="30" placeholder="I think you are..."></textarea>
+        </label>
+      </fieldset>
+      <fieldset>
+      <input id="submit" type="submit" value="Submit"/>
+      </div>
+      </body>
+</html>
+

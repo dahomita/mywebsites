@@ -1,80 +1,80 @@
 h1, p {
-    margin: 1em auto;
-    text-align: center;
-  }
-  h1{
-    padding-top: 20px;
-    padding-bottom: 0px;
-    margin-bottom: 10px;
-  }
-  p{
-    margin-bottom: 0px;
-    padding-bottom: 10px;
-  }
-  body{
-    background-color: #DFCCFB;
-  }
-  .center {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    width: 80%;
-  }
-  .beauty{
-    background-color: #FFF3DA;
-    margin: 1rem;
-  }
-  form {
-    max-width: 500px;
-    min-width: 300px;
-    margin: 0 auto;
-    padding-bottom: 2em;
-    background-color: #BEADFA;
-  }
-  
-  
-  fieldset {
-    border: none;
-    padding: 2rem 0;
-    border-bottom: 3px solid #3b3b4f;
-  }
-  
-  label {
-    display: block;
-    margin: 0.5rem 0;
-  }
-  
-  input,
-  textarea,
-  select {
-    margin: 10px 0 0 0;
-    width: 100%;
-    min-height: 2em;
-  }
-  
-  input, textarea {
-    background-color: white;
-    border: 1px solid #BEADFA;
-    color: black;
-  }
-  
-  input[type="file"] {
-    padding: 1px 2px;
-  }
-  
-  input[type="submit"] {
-    display: block;
-    width: 60%;
-    margin: 1em auto;
-    height: 2em;
-    font-size: 1.1rem;
-    background-color: #D0BFFF;
-    border-color: #D0BFFF;
-    min-width: 300px;
-  }
-  
-  .inline {
-    width: unset;
-    margin: 0 0.5em 0 0;
-    vertical-align: middle;
-  }
+  margin: 1em auto;
+  text-align: center;
+}
+h1{
+  padding-top: 20px;
+  padding-bottom: 0px;
+  margin-bottom: 10px;
+}
+p{
+  margin-bottom: 0px;
+  padding-bottom: 10px;
+}
+body{
+  background-color: DFCCFB;
+}
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 80%;
+}
+.beauty{
+  background-color: FFF3DA;
+  margin: 1rem;
+}
+form {
+  max-width: 500px;
+  min-width: 300px;
+  margin: 0 auto;
+  padding-bottom: 2em;
+  background-color: BEADFA;
+}
+
+
+fieldset {
+  border: none;
+  padding: 2rem 0;
+  border-bottom: 3px solid #3b3b4f;
+}
+
+label {
+  display: block;
+  margin: 0.5rem 0;
+}
+
+input,
+textarea,
+select {
+  margin: 10px 0 0 0;
+  width: 100%;
+  min-height: 2em;
+}
+
+input, textarea {
+  background-color: white;
+  border: 1px solid BEADFA;
+  color: black;
+}
+
+input[type="file"] {
+  padding: 1px 2px;
+}
+
+input[type="submit"] {
+  display: block;
+  width: 60%;
+  margin: 1em auto;
+  height: 2em;
+  font-size: 1.1rem;
+  background-color: D0BFFF;
+  border-color: D0BFFF;
+  min-width: 300px;
+}
+
+.inline {
+  width: unset;
+  margin: 0 0.5em 0 0;
+  vertical-align: middle;
+}

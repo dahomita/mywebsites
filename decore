@@ -1,0 +1,33 @@
+<!DOCTYPE html> 
+<html lang="en">
+  <meta charset="UTF-8"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <meta name="description" content="A Code-Boxer Portfolio"/>
+  <title>Code-Boxer Portfolio</title>
+  <link rel="stylesheet" href="styles.css"/>
+</head>
+<body> 
+  <main> 
+    <section id="welcome-section">
+      <h1>Dang Hoang Minh Tam</h1>
+      <p>A Code-Boxer<p> 
+      <nav>
+        <ul>
+          <li><a href="#about">About</a></li>
+          <li><a href="#diary">Contact</a></li>
+          <li><a href="#contact">Dear Diary</a></li>
+        </ul>
+      </nav>
+    </section>
+    <section id="about"></section>
+    <section id="diary" role="region" aria-labelledby="diary">
+      <div>
+        <img class="center" src="https://lh3.googleusercontent.com/pw/ADCreHfzYWevR1DRPxRptiQW0vGYeixFoR4trN_efTHEu0tYJ9pTHMPqBuATe0jliOBfek6T2AIfbSk5ZVQWNqPs-xOAZQW8ysJYFBlFXJ4mXMSqjlkom-g=w2400"/>
+          <label>
+          <a href="https://www.canva.com/design/DAFv2bm65_k/r7tV36EZKx62HXsHpBZG6Q/view?utm_content=DAFv2bm65_k&utm_campaign=designshare&utm_medium=link&utm_source=viewer" >SUGAR Vietnam</a>
+      </label>
+       </div> 
+    </section> 
+    <section id="contact" role="region" aria-labelledby="contact"></section>  
+  </main> 
+</body> 

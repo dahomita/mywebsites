@@ -1,0 +1,353 @@
+@media (prefers-reduced-motion: no-preference) {
+  * {
+    scroll-behavior: smooth;
+  }
+}
+.about{
+  margin-bottom: 10;
+  padding-bottom: 0;
+}
+
+.about-bg{
+  opacity: 0.5;
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: auto;
+}
+.contact-bg{
+  opacity: 0.5;
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: auto;
+  z-index: -1;
+}
+.about-content p{
+  padding: 0px;
+  margin-top: 0px;
+  margin-bottom: 10px;}
+.contact-content h3,h2,p{
+  padding: 0px;
+  margin-top: 0px;
+  margin-bottom: 10px;}
+.contact-wrap{
+  overflow: hidden;
+  position: relative;
+  padding-bottom: 100px;
+  margin-top: 10px;
+}
+
+.about-content h3{
+  margin-bottom: 5px;
+  padding-bottom: 5px;
+  margin-top: 5px;
+
+}
+.avatar{
+  width:30%;
+  max-width: 80px;
+  object-fit: cover;
+  border-radius: 10px; 
+}
+.diary img{
+  width:100%;
+  max-width: 300px;
+  object-fit: cover;
+  border-radius: 10px;
+}
+
+.hello-wrap{
+  overflow: hidden;
+  position: relative;
+  padding-bottom: 10px;
+  margin-top: 10px;
+}
+.about-wrap{
+  margin-top: 10px;
+  padding-top: 0;
+  overflow: hidden;
+  position: relative;
+  padding-bottom: 50px;
+}
+
+
+.about-content{
+  position: relative;
+  text-align: center;
+  padding-top: 0;
+  margin-top: 10px;;
+}
+.about-me{
+  margin: 100px; 
+  padding: 50px;
+
+}
+.about-content p{
+  text-align:center;
+  padding: 0;
+  margin: 0;
+  position: relative;;
+}
+.about-content h2{
+  text-align: center;
+  padding: 0;
+  margin: 0;
+  position: relative;
+}
+
+.avatar{
+  position: relative;
+  display: block;
+}
+.hello-bg{
+  opacity: 0.4;
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: auto;
+  z-index: -1;
+}
+.hello-content{
+  position: relatvie;
+}
+
+body{
+  background-color: black;
+  color: white;
+  font-family:Palatino;
+}
+
+.hello h1,p {
+  margin: 4em auto;
+  text-align: center;
+}
+.contact h2,h3,p{
+  text-align: center;
+
+}
+.hello p{
+  margin-top: 0px;
+}
+.hello h1{
+  margin-bottom: 10px;
+}
+
+nav {
+  text-align: center;
+  width: 50%;
+  max-width: 300px;
+  height: 50px;
+  margin-top: 0px;
+  padding-top: 0px;
+}
+nav > ul {
+  display: flex; 
+  justify-content: space-evenly;
+  flex-wrap: wrap;
+  align-items: center;
+  padding-inline-start: 0;
+  margin-block: 0;
+  height: 100%;
+
+}
+nav > ul > li {
+  color: white;
+  margin: 0 0.2 rem;
+  padding: 0.2rem;
+  display: block;
+  
+}
+
+nav > ul > li:hover{
+  background-color:black; 
+  cursor: pointer;
+  color: white;
+  animation: 1s linear infinite wave;
+}
+
+li > a{
+  color: inherit;
+  text-decoration: none
+}
+@keyframes important2 {
+  0% {
+    margin-left: 30px;
+  }
+  50% {
+    margin-right: 40px;
+  }
+  100% {
+    margin-left: 30px;
+  }
+}
+@keyframes important1 {
+  0% {
+    margin-right: 20px;
+  }
+  50% {
+    margin-left: 50px;
+  }
+  100% {
+    margin-right: 20px;
+  }
+}
+.move {
+  animation: important2 1s ease-in-out infinite;
+}
+.move2{
+  animation: important1 1s ease-in-out infinite;
+}
+@keyframes wave {
+  10%{
+    transform: rotate(10deg)
+  }
+  100%{
+    transform: rotate(-10deg)
+  }
+}
+.about-me h3,h4,h6 {
+  padding: 0;
+  margin: 0;
+}
+
+.phonecall{
+  width: 10%;
+  
+}
+.phonecall1{
+  width: 60%;
+  max-width: 200px;
+  min-width: 6px;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+.phonecall:hover{
+  animation: 1s linear infinite wave;
+
+}
+.firstcontent{
+  padding-top: 10px;
+  margin-top: 30px;
+}
+.phonecall1:hover{
+  animation: 1s linear infinite wave;
+}
+.contact-content img{
+  max-width: 50px;
+  min-width: 40px;
+}
+.contact-wrap{
+  display: flex;
+  justify-content: center;
+}
+.contact-content p,img{
+  display: inline-block;
+  text-align: center;
+}
+.sugarvietnam a{
+  color: white;
+}
+@keyframes dance {
+  50% {
+    padding-top: 10px;
+  }
+  100% {
+    padding-top: 0px;
+  }
+}
+.sugarvietnam a:hover{
+  color: black;
+  background-color: white;
+  animation: dance 1s ease-in-out;
+}
+.boxingjourney a:hover{
+  color: black;
+  background-color: white;
+  animation: dance 1s ease-in-out;
+}
+.boxing{
+  padding: 10px;
+  text-align: center;
+}
+.CHAP a:hover{
+  color: black;
+  background-color: white;
+  animation: dance 1s ease-in-out;
+}
+.CHAP{
+  padding: 10px;
+  text-align: center;
+}
+.eleven a:hover{
+  color: black;
+  background-color: white;
+  animation: dance 1s ease-in-out;
+}
+
+.eleven{
+  padding: 10px;
+  text-align: center;
+}
+.psychealer a:hover{
+  color: black;
+  background-color: white;
+  animation: dance 1s ease-in-out;
+}
+
+.psychealer{
+  padding: 10px;
+  text-align: center;
+}
+.ten a:hover{
+  color: black;
+  background-color: white;
+  animation: dance 1s ease-in-out;
+}
+
+.family{
+  padding: 10px;
+  text-align: center;
+}
+.family a:hover{
+  color: black;
+  background-color: white;
+  animation: dance 1s ease-in-out;
+}
+.ten{
+  padding: 10px;
+  text-align: center;
+}
+.nine a:hover{
+  color: black;
+  background-color: white;
+  animation: dance 1s ease-in-out;
+}
+.nine{
+  padding: 10px;
+  text-align: center;
+}
+.gallery {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  gap: 16px;
+  max-width: 1400px;
+  padding: 20px 10px;
+  background-color: white;
+  margin: 10px auto;
+}
+.SUGAR{
+  text-align: center;
+  display: block;
+}
+.diary{
+  background-color: 	#600000;
+  margin-top: 0px;
+  padding-top: 10px;
+}

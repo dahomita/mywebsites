@@ -46,6 +46,9 @@
   margin-top: 5px;
 
 }
+.hello{
+  margin-bottom: 0px;
+}
 .avatar{
   width:30%;
   max-width: 80px;
@@ -112,13 +115,13 @@
   z-index: -1;
 }
 .hello-content{
-  position: relatvie;
+  position: relative;
 }
 
 body{
   background-color: black;
   color: white;
-  font-family:Palatino;
+  font-family: Palatino;
 }
 
 .hello h1,p {

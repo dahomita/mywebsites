@@ -4,7 +4,8 @@
   }
 }
 .about{
-  margin-bottom: 10px;
+  margin-bottom: 10;
+  padding-bottom: 0;
 }
 
 .about-bg{
@@ -44,9 +45,6 @@
   padding-bottom: 5px;
   margin-top: 5px;
 
-}
-.hello{
-  margin-bottom: 0px;
 }
 .avatar{
   width:30%;
@@ -114,13 +112,13 @@
   z-index: -1;
 }
 .hello-content{
-  position: relative;
+  position: relatvie;
 }
 
 body{
   background-color: black;
   color: white;
-  font-family: Palatino;
+  font-family:Palatino;
 }
 
 .hello h1,p {
@@ -165,7 +163,7 @@ nav > ul > li {
 }
 
 nav > ul > li:hover{
-  background-color: black; 
+  background-color:black; 
   cursor: pointer;
   color: white;
   animation: 1s linear infinite wave;
@@ -284,16 +282,7 @@ li > a{
   padding: 10px;
   text-align: center;
 }
-.eleven a:hover{
-  color: black;
-  background-color: white;
-  animation: dance 1s ease-in-out;
-}
 
-.eleven{
-  padding: 10px;
-  text-align: center;
-}
 .psychealer a:hover{
   color: black;
   background-color: white;
@@ -304,11 +293,7 @@ li > a{
   padding: 10px;
   text-align: center;
 }
-.ten a:hover{
-  color: black;
-  background-color: white;
-  animation: dance 1s ease-in-out;
-}
+
 
 .family{
   padding: 10px;
@@ -319,19 +304,8 @@ li > a{
   background-color: white;
   animation: dance 1s ease-in-out;
 }
-.ten{
-  padding: 10px;
-  text-align: center;
-}
-.nine a:hover{
-  color: black;
-  background-color: white;
-  animation: dance 1s ease-in-out;
-}
-.nine{
-  padding: 10px;
-  text-align: center;
-}
+
+
 .gallery {
   display: flex;
   flex-direction: row;
@@ -352,4 +326,24 @@ li > a{
   background-color: 	#600000;
   margin-top: 0px;
   padding-top: 10px;
+}
+a{
+  color: white;
+  text-decoration: none;
+}
+.psychealer{
+  display: block;
+  text-align: center;
+  margin: 0;
+  padding:0;
+}
+.thepsychealer{
+  text-align: center;
+}
+.sugarvietnam{
+  display: block;
+}
+
+.thepsychealer{
+  padding-bottom: 10px;
 }

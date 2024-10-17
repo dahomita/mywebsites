@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/dahomita/mywebsites/blob/master/package.json/static/css/main.ac33c4ff.css",
+    "main.js": "/dahomita/mywebsites/blob/master/package.json/static/js/main.b2e46969.js",
+    "static/js/453.ace21015.chunk.js": "/dahomita/mywebsites/blob/master/package.json/static/js/453.ace21015.chunk.js",
+    "static/media/birthday.jpeg": "/dahomita/mywebsites/blob/master/package.json/static/media/birthday.d3f5be60496110134c75.jpeg",
+    "static/media/pro1.png": "/dahomita/mywebsites/blob/master/package.json/static/media/pro1.a980e64460227f4eb820.png",
+    "static/media/backgroundmoi.png": "/dahomita/mywebsites/blob/master/package.json/static/media/backgroundmoi.ad73caf20cfff49e8f40.png",
+    "static/media/pro3.png": "/dahomita/mywebsites/blob/master/package.json/static/media/pro3.8bc50b9b602dbd715827.png",
+    "static/media/avaimg.jpg": "/dahomita/mywebsites/blob/master/package.json/static/media/avaimg.d711c73bbe06c7f01019.jpg",
+    "static/media/pro2.png": "/dahomita/mywebsites/blob/master/package.json/static/media/pro2.ab2c97ca3ed6af15fb1c.png",
+    "static/media/CentraNo2-Bold.ttf": "/dahomita/mywebsites/blob/master/package.json/static/media/CentraNo2-Bold.2faff7f7d3fc92a2fcd9.ttf",
+    "static/media/CentraNo2-Medium.ttf": "/dahomita/mywebsites/blob/master/package.json/static/media/CentraNo2-Medium.f94be5b326d78bb32b95.ttf",
+    "static/media/CentraNo2-Book.ttf": "/dahomita/mywebsites/blob/master/package.json/static/media/CentraNo2-Book.2b143fa4b734a3584043.ttf",
+    "static/media/footer-bg.png": "/dahomita/mywebsites/blob/master/package.json/static/media/footer-bg.7bd67c0f73571d0acc02.png",
+    "static/media/logofun1.png": "/dahomita/mywebsites/blob/master/package.json/static/media/logofun1.8f1a6ae6b380e6dd53ae.png",
+    "static/media/revicons.eot": "/dahomita/mywebsites/blob/master/package.json/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "/dahomita/mywebsites/blob/master/package.json/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/2.png": "/dahomita/mywebsites/blob/master/package.json/static/media/2.fa08d96ae1c1d0d32ce0.png",
+    "static/media/3.png": "/dahomita/mywebsites/blob/master/package.json/static/media/3.35085368c0e2a2853485.png",
+    "static/media/1.png": "/dahomita/mywebsites/blob/master/package.json/static/media/1.70f9fac691542c5728df.png",
+    "static/media/revicons.woff": "/dahomita/mywebsites/blob/master/package.json/static/media/revicons.e8746a624ed098489406.woff",
+    "static/media/nav-icon3.svg": "/dahomita/mywebsites/blob/master/package.json/static/media/nav-icon3.08b285abb8e118b52637efa5d65c5367.svg",
+    "index.html": "/dahomita/mywebsites/blob/master/package.json/index.html",
+    "static/media/nav-icon1.svg": "/dahomita/mywebsites/blob/master/package.json/static/media/nav-icon1.721d5414c26365f117e71d46b6641cb2.svg",
+    "static/media/nav-icon2.svg": "/dahomita/mywebsites/blob/master/package.json/static/media/nav-icon2.178f497aa17b70c42df2a1a8c926ed01.svg",
+    "main.ac33c4ff.css.map": "/dahomita/mywebsites/blob/master/package.json/static/css/main.ac33c4ff.css.map",
+    "main.b2e46969.js.map": "/dahomita/mywebsites/blob/master/package.json/static/js/main.b2e46969.js.map",
+    "453.ace21015.chunk.js.map": "/dahomita/mywebsites/blob/master/package.json/static/js/453.ace21015.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ac33c4ff.css",
+    "static/js/main.b2e46969.js"
+  ]
+}

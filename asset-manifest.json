@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/dahomita/mywebsites/blob/master/package.json/static/css/main.ac33c4ff.css",
-    "main.js": "/dahomita/mywebsites/blob/master/package.json/static/js/main.b2e46969.js",
+    "main.js": "/dahomita/mywebsites/blob/master/package.json/static/js/main.66f64a62.js",
     "static/js/453.ace21015.chunk.js": "/dahomita/mywebsites/blob/master/package.json/static/js/453.ace21015.chunk.js",
     "static/media/birthday.jpeg": "/dahomita/mywebsites/blob/master/package.json/static/media/birthday.d3f5be60496110134c75.jpeg",
     "static/media/pro1.png": "/dahomita/mywebsites/blob/master/package.json/static/media/pro1.a980e64460227f4eb820.png",
@@ -25,11 +25,11 @@
     "static/media/nav-icon1.svg": "/dahomita/mywebsites/blob/master/package.json/static/media/nav-icon1.721d5414c26365f117e71d46b6641cb2.svg",
     "static/media/nav-icon2.svg": "/dahomita/mywebsites/blob/master/package.json/static/media/nav-icon2.178f497aa17b70c42df2a1a8c926ed01.svg",
     "main.ac33c4ff.css.map": "/dahomita/mywebsites/blob/master/package.json/static/css/main.ac33c4ff.css.map",
-    "main.b2e46969.js.map": "/dahomita/mywebsites/blob/master/package.json/static/js/main.b2e46969.js.map",
+    "main.66f64a62.js.map": "/dahomita/mywebsites/blob/master/package.json/static/js/main.66f64a62.js.map",
     "453.ace21015.chunk.js.map": "/dahomita/mywebsites/blob/master/package.json/static/js/453.ace21015.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ac33c4ff.css",
-    "static/js/main.b2e46969.js"
+    "static/js/main.66f64a62.js"
   ]
 }
